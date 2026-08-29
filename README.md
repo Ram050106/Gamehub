@@ -92,7 +92,9 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 
 ## 📧 Contact
 
-For questions or feedback, please reach out through GitHub Issues.
+For questions or feedback, 
+
+email id : ramaddagatla2006@gmail.com
 
 ---
 
